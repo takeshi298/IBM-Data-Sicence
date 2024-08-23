@@ -1,4 +1,4 @@
-# SpaceX Falcon-9 Success Landing Prediction
+# SpaceX Rocket Landing Prediction Capstone Project
 # Outline
 * [1.SpaceX-Complete the Data Collection API Lab](https://github.com/takeshi298/IBM-Data-Sicence/blob/main/1.SpaceX-Complete%20the%20Data%20Collection%20API%20Lab.ipynb)
 * [2.SpaceX - Web scraping Falcon 9 and Falcon Heavy Launches Records from Wikipedia](https://github.com/takeshi298/IBM-Data-Sicence/blob/main/2.SpaceX%20-%20Web%20scraping%20Falcon%209%20and%20Falcon%20Heavy%20Launches%20Records%20from%20Wikipedia.ipynb)
